@@ -5,7 +5,7 @@ layout: default
 
 ## Manhattan (Griffintown)
 
-{: .drink }
+{: .recipe }
 > Core
 > : 60ml / 2oz / 4T rye/bourbon whisky
 > 
