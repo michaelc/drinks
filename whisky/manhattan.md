@@ -7,10 +7,27 @@ layout: default
 
 >
 
+<blockquote class="drink">
+  <dl>
+    <dt>Core</dt>
+    <dd>60ml / 2oz / 4T rye/bourbon whisky</dd>
+    <dt>Balance</dt>
+    <dd>30ml / 1oz / 2T sweet vermouth</dd>
+    <dt>Season</dt>
+    <dd>3 dashes Angostura</dd>
+    <dt>Garnish</dt>
+    <dd>Orange twist</dd>
+    <dt>Glass</dt>
+    <dd>Nick & Nora / Coupe</dd>
+    <dt>Method</dt>
+    <dd>Stir with ice, strain, dash, garnish with orange twist (or lemon twist for dry/perfect variations).</dd>
+  </dl>
+</blockquote
+
 {: .drink }
 > <dl>
     <dt>Core</dt>
-    <dd>60ml / 2oz / 4T rye/bourbon</dd>
+    <dd>60ml / 2oz / 4T rye/bourbon whisky</dd>
     <dt>Balance</dt>
     <dd>30ml / 1oz / 2T sweet vermouth</dd>
     <dt>Season</dt>
@@ -25,7 +42,7 @@ layout: default
 
 ### Variations
 
-- Can go from classic 2:1 to stronger 3:1 (IBA is 2.5:1) depending on whisky ABV, flavour profile of vermouth, etc.
+- Can go from classic `2:1` to stronger `3:1` (IBA is `2.5:1`) depending on whisky ABV, flavour profile of vermouth, etc.
 
 ### Related
 
@@ -39,7 +56,7 @@ layout: default
 - _The Riddler / Tipperary_ (drop whisky to 3T and add 1T green chartreuse) https://www.liquor.com/recipes/tipperary/
 - _Black Manhattan_ (amaro (e.g. Averna) instead of vermouth, luxardo cherry instead of orange twist)
   - "Created by bartender Todd Smith during his time at Bourbon & Branch in San Francisco."
-- _**Griffintown**_ (acerum instead of whisky, w/ maple vermouth (e.g. Rivière du Chêne), cinnamon bitters, apple twist)
+- _**Griffintown**_ (Canadian rye (or acerum), w/ maple vermouth (e.g. Rivière du Chêne), cinnamon bitters, apple twist)
   - My own creation! 😄
 - _High Horse_ https://www.liquor.com/recipes/high-horse/
 - need to list all the NYC borough variations...
