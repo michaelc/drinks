@@ -8,22 +8,23 @@ layout: default
 >
 
 {: .drink }
-<div markdown="block">
-  <dl>
-    <dt>Core</dt>
-    <dd>60ml / 2oz / 4T rye/bourbon</dd>
-    <dt>Balance</dt>
-    <dd>30ml / 1oz / 2T sweet vermouth</dd>
-    <dt>Season</dt>
-    <dd>3 dashes Angostura</dd>
-    <dt>Garnish</dt>
-    <dd>Orange twist</dd>
-    <dt>Glass</dt>
-    <dd>Nick & Nora / Coupe</dd>
-    <dt>Method</dt>
-    <dd>Stir with ice, strain, dash, garnish with orange twist (or lemon twist for dry/perfect variations).</dd>
-  </dl>
-</div>
+>
+  <div markdown="block">
+    <dl>
+      <dt>Core</dt>
+      <dd>60ml / 2oz / 4T rye/bourbon</dd>
+      <dt>Balance</dt>
+      <dd>30ml / 1oz / 2T sweet vermouth</dd>
+      <dt>Season</dt>
+      <dd>3 dashes Angostura</dd>
+      <dt>Garnish</dt>
+      <dd>Orange twist</dd>
+      <dt>Glass</dt>
+      <dd>Nick & Nora / Coupe</dd>
+      <dt>Method</dt>
+      <dd>Stir with ice, strain, dash, garnish with orange twist (or lemon twist for dry/perfect variations).</dd>
+    </dl>
+  </div>
 
 ### Variations
 
