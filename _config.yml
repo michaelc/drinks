@@ -49,3 +49,4 @@ callouts:
   recipe:
     title: Recipe
     color: blue
+    opacity: 0.5
