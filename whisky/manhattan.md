@@ -7,6 +7,7 @@ layout: default
 >
 
 {: .ingredients }
+>
 <dl>
   <dt>Base</dt>
   <dd>60ml / 2oz / 4T rye/bourbon</dd>
