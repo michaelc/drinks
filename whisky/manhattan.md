@@ -4,7 +4,12 @@ layout: default
 ---
 
 ## Manhattan (Griffintown)
->
+
+{: .label }
+#Whisky
+
+{: .label }
+#Vermouth
 
 {: .ingredients }
 >
