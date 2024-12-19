@@ -6,6 +6,7 @@ layout: default
 ## Manhattan (Griffintown)
 
 {: .ingredients }
+>
 - 60ml / 2oz / 4T rye/bourbon
 - 30ml / 1oz / 2T sweet vermouth
 - 3 dashes Angostura
