@@ -23,6 +23,7 @@ layout: default
 </blockquote>
 
 {: .drink }
+>
 <dl>
   <dt>Core</dt>
   <dd>60ml / 2oz / 4T rye/bourbon whisky</dd>
