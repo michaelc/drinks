@@ -50,6 +50,5 @@ Stir with ice, strain, dash, garnish with orange twist.
 - _**The Riddler**_ / _**Tipperary**_ (drop whisky to 3T and add 1T green chartreuse) https://www.liquor.com/recipes/tipperary/
 - _**Black Manhattan**_ (amaro (e.g. Averna) instead of vermouth, luxardo cherry instead of orange twist)
   > Created by bartender Todd Smith during his time at Bourbon & Branch in San Francisco.
-- _**Griffintown**_ (Canadian rye (or acerum), w/ maple vermouth (e.g. Rivière du Chêne), cinnamon bitters, apple slice)
 - _**High Horse**_ https://www.liquor.com/recipes/high-horse/
 - need to list all the NYC borough variations...
