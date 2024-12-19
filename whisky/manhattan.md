@@ -22,7 +22,9 @@ layout: default
     <dt>Method</dt>
     <dd>Stir with ice, strain, dash, garnish with orange twist (or lemon twist for dry/perfect variations).</dd>
   </dl>
-</blockquote
+</blockquote>
+
+>
 
 {: .drink }
 > <dl>
