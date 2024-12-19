@@ -21,7 +21,7 @@ layout: default
     <dd>Nick & Nora / Coupe</dd>
     <dt>Method</dt>
     <dd>Stir with ice, strain, dash, garnish with orange twist (or lemon twist for dry/perfect variations).</dd>
-  </dl>
+> </dl>
 
 ### Variations
 
