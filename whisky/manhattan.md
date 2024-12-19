@@ -1,5 +1,6 @@
 ---
 title: Manhattan
+layout: default
 ---
 
 ## Manhattan (Griffintown)
