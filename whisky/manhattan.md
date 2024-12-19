@@ -4,6 +4,7 @@ layout: default
 ---
 
 ## Manhattan (Griffintown)
+>
 
 {: .ingredients }
 >
