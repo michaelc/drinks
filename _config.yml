@@ -48,4 +48,4 @@ callouts_level: quiet # or loud
 callouts:
   ingredients:
     title: Ingredients
-    color: grey-lt
+    color: grey-dk
