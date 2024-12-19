@@ -51,4 +51,4 @@ callouts_level: quiet # or loud
 callouts:
   recipe:
     title: Recipe
-    color: blue
+    color: tw-blue
