@@ -46,6 +46,6 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 callouts_level: quiet # or loud
 callouts:
-  drink:
+  recipe:
     title: Recipe
     color: blue
