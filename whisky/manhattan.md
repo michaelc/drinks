@@ -25,14 +25,19 @@ layout: default
 {: .drink }
 > Core
 > : 60ml / 2oz / 4T rye/bourbon whisky
+> 
 > Balance
 > : 30ml / 1oz / 2T sweet vermouth
+> 
 > Season
 > : 3 dashes Angostura
+> 
 > Garnish
 > : Orange twist
+> 
 > Glass
 > : Coupe / Nick & Nora
+> 
 > Method
 > : Stir with ice, strain, dash, garnish with orange twist (or lemon twist for dry/perfect variations).
 
