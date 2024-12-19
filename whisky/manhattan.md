@@ -5,8 +5,7 @@ layout: default
 
 ## Manhattan
 
-{: .opaque }
-> {: .recipe }
+{: .recipe }
 > - 60ml / 2oz / 4T rye/bourbon whisky
 > - 30ml / 1oz / 2T sweet vermouth
 > - 3 dashes Angostura
