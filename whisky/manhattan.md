@@ -8,8 +8,7 @@ layout: default
 >
 
 {: .drink }
->
-  <dl>
+> <dl>
     <dt>Core</dt>
     <dd>60ml / 2oz / 4T rye/bourbon</dd>
     <dt>Balance</dt>
