@@ -4,13 +4,7 @@ layout: default
 ---
 
 ## Manhattan (Griffintown)
-
-{: .label }
-#Whisky
-
-{: .label }
-#Vermouth
-
+>
 {: .ingredients }
 >
 - 60ml / 2oz / 4T rye/bourbon
