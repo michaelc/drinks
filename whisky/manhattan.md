@@ -5,13 +5,19 @@ layout: default
 
 ## Manhattan (Griffintown)
 >
+
 {: .ingredients }
->
-- 60ml / 2oz / 4T rye/bourbon
-- 30ml / 1oz / 2T sweet vermouth
-- 3 dashes Angostura
-- Orange twist
-- Nick & Nora / Coupe glass
+<dl>
+  <dt>Base</dt>
+  <dd>60ml / 2oz / 4T rye/bourbon</dd>
+  <dt>Modifier</dt>
+  <dd>30ml / 1oz / 2T sweet vermouth</dd>
+  <dd>3 dashes Angostura</dd>
+  <dt>Garnish</dt>
+  <dd>Orange twist</dd>
+  <dt>Glass</dt>
+  <dd>Nick & Nora / Coupe</dd>
+</dl>
 
 Stir with ice, strain, dash, garnish with orange twist (or lemon twist for dry/perfect variations).
 
