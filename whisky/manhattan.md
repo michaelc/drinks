@@ -7,8 +7,7 @@ layout: default
 
 >
 
-{: .drink }
->
+<blockquote class="drink">
   <div markdown="block">
     <dl>
       <dt>Core</dt>
@@ -25,6 +24,7 @@ layout: default
       <dd>Stir with ice, strain, dash, garnish with orange twist (or lemon twist for dry/perfect variations).</dd>
     </dl>
   </div>
+</blockquote>
 
 ### Variations
 
