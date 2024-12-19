@@ -1,3 +1,7 @@
+---
+title: Manhattan
+---
+
 ## Manhattan (Griffintown)
 
 - 60ml / 2oz / 4T rye/bourbon
