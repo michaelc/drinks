@@ -1,3 +1,8 @@
+---
+title: Whisky
+layout: default
+---
+
 ## Boulevardier
 
 https://www.liquor.com/recipes/boulevardier/
