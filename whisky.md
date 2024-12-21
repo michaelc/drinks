@@ -3,6 +3,9 @@ title: Whisky
 layout: default
 ---
 
+- TOC
+{:toc}
+
 ## Boulevardier
 
 https://www.liquor.com/recipes/boulevardier/
