@@ -3,6 +3,9 @@ title: Whisky
 layout: default
 ---
 
+# Whisky
+{: .no_toc }
+
 - TOC
 {:toc}
 
