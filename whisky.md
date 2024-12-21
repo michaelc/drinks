@@ -9,7 +9,7 @@ https://www.liquor.com/recipes/boulevardier/
 
 > Loosely translated, a boulevardier is a man-about-town. A cocktail by the same name was created by Erskine Gwynne, the American-born publisher of “Boulevardier," a magazine for expats living in Paris during the 1920s. The drink was popularized after it was included in Harry MacElhone's 1927 book "Barflies and Cocktails." In it, the author credited the cocktail to Gwynne, a regular at Harry's New York Bar in Paris.
 
-I've coined it _**Roma,**_ as in 'Italian Manhattan', but this is basically just a whisky _**Negroni.**_
+I've coined it _**Roma**_ (as in, Italian Manhattan), but this is basically just a whisky _**Negroni.**_
 
 ```
 * 30ml / 1oz / 2T bourbon/rye
